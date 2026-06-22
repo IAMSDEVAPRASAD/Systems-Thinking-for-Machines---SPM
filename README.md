@@ -28,6 +28,8 @@ Now to our pick & place machine, **What hardware do our machine have?** Our mach
 
 **How these guys are communicating?** Consider a master controller (PLC or PC) needs to control it the master controller will be connected to slave devices using cables for communication (ethernet cable, RS232,....) these cables work on certain protocols (ethercat, Profinet, ...). The way master and slave are connected is called **Network topology**. The slave devices are further connected to hardware ie field devices. Common field devices are Input module, Output module, motor drive, camera and robot.
 
+<img width="966" height="592" alt="Connection_Diagram" src="https://github.com/user-attachments/assets/e6405549-e108-49a1-ad8d-a949da0449ab" />
+
 The field devices are controlled in a specific way such that a part comes in gets assembled and goes out. The master controller has some **control logic called as Auto sequence** which controls the field devices step by step. What if command fails or doesn't execute? its an alarm!!! **logic to handle alarm** should be there in controller. I don't want the user to wait during autosequence to check wether all devices are communicating , so here comes the **Manual mode** to check all slave devices response to a command. What if some one hits the robot in manual mode somewhere, I don't want people calling me midnight for support, so here comes **Interlocks**. Interlocks are used to prevent unsafe movements in a machine. Machine should be safe for both Man & Itself. For man safety we will have seperate hardware level **Safety devices**, for quick response. Btw who know when will our program hangs.
 
 Yeah good, now we have basics-basics to Divide and conquer. 
