@@ -8,7 +8,7 @@
 
  The things we focus are abstract concepts necessary for a good system design and debugging. Btw we are not gonna run around lot of terminologies only just things to get things done. When you walk out, you will be a good thinker. Lets begin...
 
-1. Understanding req - What to do ? Why to do? What to optimize ? What to skip ?
+**1. Understanding req - What to do ? Why to do? What to optimize ? What to skip ?**
 
     What is a problem? Anything that causes discomfort is a problem. It may be your car not starting, to your manager calling you for a Sunday work . It can be anything.
 
