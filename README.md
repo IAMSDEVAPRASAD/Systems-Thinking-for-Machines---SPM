@@ -4,9 +4,9 @@
 2. observe -> think -> Act
 3. how to think in systems
 
-   Hi guys, this blog is a learning journal of a 23 yr old 2 years experienced Industrial Automation guy. The topics we are going to explore are things I learned as a part of my 2 yr career journey. 
+ Hi guys, this blog is a learning journal of a 23 yr old 2 years experienced Industrial Automation guy. The topics we are going to explore are things I learned as a part of my 2 yr career journey. 
 
-    The things we focus are abstract concepts necessary for a good system design and debugging. Btw we are not gonna run around lot of terminologies only just things to get things done. When you walk out, you will be a good thinker. Lets begin...
+ The things we focus are abstract concepts necessary for a good system design and debugging. Btw we are not gonna run around lot of terminologies only just things to get things done. When you walk out, you will be a good thinker. Lets begin...
 
 1. Understanding req - What to do ? Why to do? What to optimize ? What to skip ?
 
