@@ -47,7 +47,7 @@ Figuring out What to do ? Why to do? What to optimize ? What to skip ? saves our
 
 ## 2. Observe -> Think -> Act 
 
-To be frank, most of the people I see around me just act on a command or go with the group, they don't think. So what? I don't want you to do the same thing. **There maybe situations where acting quickly will be rewarded rather than thinking and acting** , but I hope it wont work in Engineering. Who knows you may figure out things with **bruteforce** , but i dont want spending too muchtime in office, so i dont prefer it unless needed.
+To be frank, most of the people I observe act on a command or go with the group, they don't think. So what? I don't want you to do the same thing. **There maybe situations where acting quickly will be rewarded rather than thinking and acting** , but I hope it wont work in Engineering. Who knows you may figure out things with **bruteforce** , but i dont want spending too muchtime in office, so i dont prefer it unless needed.
 
 So do i want you to think and act? No. One of the mistakes I did is thinking & acting. There may be 1000s of parameters which may lead to a result, but there is no necessity to analyse all 1000 of them. You will end in constant analysis if you think without context. 
 
