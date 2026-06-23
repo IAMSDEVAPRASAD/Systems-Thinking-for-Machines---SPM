@@ -43,3 +43,20 @@ Imagine machine running and the user wants to increase speed, if those are insid
 Now our requirement has been updated with **Recipie screen, Role-Based Access Control and startup files**.
 
 Figuring out What to do ? Why to do? What to optimize ? What to skip ? saves our time during system design and developing control logic. We can stop this topic here . We can discuss other topics next.
+
+
+## 2. observe -> think -> Act 
+
+To be frank, most of the people I see around me just act on a command or go with the group, they don't think. So what? I don't want you to do the same thing. **There maybe situations where acting quickly will be rewarded rather than thinking and acting** , but I hope it wont work in Engineering. Who knows you may figure out things with **bruteforce** , but i dont want spending too muchtime in office, so i dont prefer it unless needed.
+
+So do i want you to think and act? No. One of the mistakes I did is thinking & acting. There may be 1000s of parameters which may lead to a result, but there is no necessity to analyse all 1000 of them. You will end in constant analysis if you think without context. 
+
+So what? Observe first understand the context, **not everything needs to be solved, not everything needs to be understood, there will be trade offs, sweetspots, sometimes you don't need absolute truth** - you need good enough truth to solve the problem. Figure it out & Act.
+
+An example : 
+
+2 engineers a are working in our imaginary machine. The tray will be lifted up by a servo motor, once it reaches a certain point it will be stopped based on a sensor feedback. Once the tray stops at a point the robot picks it up. One engineer teaches robot (x,y,z) points to pick the part from a tray it went for probably a hour. Then all begin testing it in Auto sequence, the robot didn't pick. Tried multiple times still didn't. 
+
+Then what, the guy who taught robot points begin to say no repeatability in servo motor, delayed sensor feedback, stop command going slowly to drive from control logic, ... . Other guy trying to figure out. Then one more guy said that robot points are taught with tray in 180 degrees. Then we figured out why it happened, its due to improper setting of a **poka yoke** or fool proof sensor. Btw poka yoke setups prevent these stuff.
+
+The guy who taught robot points just thinks, discussing of all technical possibilities without observing. That's why observation is necessary. Let's move on to last part.
