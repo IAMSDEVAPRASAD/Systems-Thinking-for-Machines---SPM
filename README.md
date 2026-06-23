@@ -5,8 +5,8 @@ Hi guys, this blog is a learning journal of a 23 yr old 2 years experienced Indu
  The things we focus are abstract concepts necessary for a good system design and debugging. Btw we are not gonna run around lot of terminologies only just things to get things done. When you walk out, you will be a good thinker. Lets begin...
 
 1. Understanding req - what to do ? why to do? What to optimize ? What to skip ?
-2. observe -> think -> Act
-3. how to think in systems
+2. Observe -> Think -> Act
+3. How to think in systems
 
 ## 1. Understanding req - What to do ? Why to do ? What to optimize ? What to skip ?
 
@@ -45,7 +45,7 @@ Now our requirement has been updated with **Recipie screen, Role-Based Access Co
 Figuring out What to do ? Why to do? What to optimize ? What to skip ? saves our time during system design and developing control logic. We can stop this topic here . We can discuss other topics next.
 
 
-## 2. observe -> think -> Act 
+## 2. Observe -> Think -> Act 
 
 To be frank, most of the people I see around me just act on a command or go with the group, they don't think. So what? I don't want you to do the same thing. **There maybe situations where acting quickly will be rewarded rather than thinking and acting** , but I hope it wont work in Engineering. Who knows you may figure out things with **bruteforce** , but i dont want spending too muchtime in office, so i dont prefer it unless needed.
 
